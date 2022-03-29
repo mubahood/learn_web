@@ -1,0 +1,11 @@
+h1,
+h2 {
+    background-color: blue;
+    color: white;
+}
+
+p,
+li {
+    color: green;
+    font-size: 10px;
+}
